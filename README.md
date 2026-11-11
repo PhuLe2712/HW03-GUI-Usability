@@ -33,9 +33,4 @@
 
 ---
 
-## 3. Cấu trúc Thư mục Tài liệu
 
-- [`HW03_Main_Report.md`](../HW03_work/HW03_Main_Report.md): Báo cáo tổng thể toàn bộ bài tập HW03.
-- [`Task2_Usability_Evaluation_Report.md`](Task2_Usability_Evaluation_Report.md): Báo cáo chi tiết toàn diện của Task 2 (Kịch bản, biên bản quan sát từng phiên, tính điểm SUS, phân tích định tính/định lượng).
-- [`Task1_GUI_Checklist.xlsx`](Task1_GUI_Checklist.xlsx): File Excel Checklist 70 tiêu chí kèm liên kết bằng chứng.
-- [`GitHub_Issue_Drafts.md`](GitHub_Issue_Drafts.md): Danh sách 30 bản nháp Issue chi tiết kèm đường dẫn ảnh chụp bằng chứng.
