@@ -14,7 +14,7 @@ Bài kiểm thử tập trung vào luồng mua sắm từ đăng ký, đăng nh�
 | Checklist items được thiết kế | 67 |
 | Checklist item-platform executions | 191 |
 | Checklist ID có ít nhất một lần FAILED | 37 |
-| Bug được tổng hợp trong MainReport | 35 |
+| Bug được tổng hợp trong Issue | 35 |
 | Người tham gia Task 2 | 8 người (có 1 pilot) |
 Số lần thực thi là tổng các mục áp dụng trong ba cấu hình được ghi ở checklist; các mục `N/A` không tính vào số đã thực thi: Chrome Desktop 64, Firefox Desktop 64, Chrome Android emulation 63. 
 
