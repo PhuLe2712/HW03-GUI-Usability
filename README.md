@@ -37,7 +37,7 @@ Thư mục ảnh có các nhóm `Chrome`, `FireFox` và `Expo_Android`. Kết qu
 | Task 1 — GUI Usability Testing | 30 | 30 |
 | Task 2 — Usability Testing with Participants | 40 | 40 |
 | Task 3 — Cross-platform / Mobile Testing | 20 | 20 |
-| Agent Skills / AI Critique | 10 | 0 |
+| Agent Skills | 10 | 0 |
 | **Tổng** | **100** | 90 |
 
 
