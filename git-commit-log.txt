@@ -1,0 +1,79 @@
+﻿commit 1c6e6f9352a46524d156fccff512d70fd2edf647
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-13T22:51:05+07:00
+Subject: Thêm và chỉnh sửa lại Usability_Session_Evidence
+
+commit 897738be9db9fcf5e9c3bd9665d65cb48f25473f
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-13T22:48:58+07:00
+Subject: Chỉnh sửa screenshort
+
+commit b7a56815c1da46b653a07319a70c624e7c8b6bec
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-13T22:47:55+07:00
+Subject: Update MainReport
+
+commit c77554105d87ab2f8b748743af1c910921452176
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-13T22:35:17+07:00
+Subject: Hoàn thiện MainReport và AI critique
+
+commit 692c9d9cc6584d32f8402eb0c9a2b41c2fa82dca
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-13T01:44:51+07:00
+Subject: Merge branch 'main' of https://github.com/PhuLe2712/HW03-GUI-Usability
+
+commit 9aac4c975daf07c96cd317b0e046f571722a735d
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-13T01:44:47+07:00
+Subject: Update MainReport and add Envidence
+
+commit bb2b20ec95e04a5de497e5a4dd8e866a0cc063bf
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-12T01:46:10+07:00
+Subject: Chỉnh sửa
+
+commit ba97f5246e31cc56548b40f255dcd8ada19f8f43
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-12T01:44:35+07:00
+Subject: Update README.md
+
+commit c8216811f071877a712c7674a205305cf67126b1
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-12T01:43:40+07:00
+Subject: Update Report Task2
+
+commit d573362eb5bbb97b48da4d50df1eb47ec27b8d8d
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-12T01:03:16+07:00
+Subject: Bổ sung Summary vào checklist
+
+commit f3fbfc47756e20241e17a3ff0f314cc3ac5c94d5
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-12T00:42:43+07:00
+Subject: Update Main Report with finalized 67-item Task 1 checklist and execution results
+
+commit 0e39c61e9dd055f0edaa48bfe0f4f78398cb1bb2
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-12T00:34:20+07:00
+Subject: Update Checklist
+
+commit c3d6665db6336f8f1e62c033dc5c4b30b4a9e7e8
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-11T23:29:21+07:00
+Subject: Complete Task 2 usability evaluation and update README
+
+commit 27058e27e5299aba64c0d97c94245e9b0037fa32
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-10T01:14:28+07:00
+Subject: Write Task1 MainReport
+
+commit 54ca5085b20473a55e01c3a7504f6485c7b791b9
+Author: PhuLe2712 <lemanhphu2712@gmail.com>
+Date: 2026-11-10T00:51:07+07:00
+Subject: Update Checklist test
+
+commit 685c1065e2d8ddcb95d99c74673e341a1e4ca643
+Author: PhuLe2712 <23120325@student.hcmus.edu.vn>
+Date: 2026-11-10T00:49:02+07:00
+Subject: Initial commit
